@@ -1,0 +1,28 @@
+{
+  "title": "Make GTA 6",
+  "slug": "gta6-01",
+  "archetype": "GAME_CREATION",
+  "engine": "Three.js r128 / HTML5 Canvas 2D",
+  "features": [
+    "Procedural Vice City 3D environment with 2.5D building extrusion",
+    "High-speed sports coupe vehicle physics and dynamic camera chase",
+    "Traffic AI & Pedestrian NPC simulation with pathfinding",
+    "Dynamic 1-5 Star VCPD wanted level pursuit & tactical roadblock AI",
+    "Authentic minimap radar HUD with real-time health and armor telemetry"
+  ],
+  "controls": {
+    "W / Up Arrow": "Accelerate vehicle / Walk forward",
+    "S / Down Arrow": "Reverse / Brake / Walk backward",
+    "A / Left Arrow": "Steer left / Turn left",
+    "D / Right Arrow": "Steer right / Turn right",
+    "Space": "Handbrake drift / Jump",
+    "Shift": "Nitro boost / Sprint",
+    "F / Enter": "Enter / Exit vehicle"
+  },
+  "screenshots": [
+    "screenshots/1-start.png",
+    "screenshots/2-play.png",
+    "screenshots/3-end.png"
+  ],
+  "cover": "cover.png"
+}
